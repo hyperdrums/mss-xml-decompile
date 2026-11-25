@@ -30,3 +30,7 @@ python mssdc.py flatdiff <XML1> <XML2>             # XML の項目単位の違�
 ```
 
 並列数は環境変数 `MSSDC_WORKERS`（既定 14）。
+
+## ライセンス
+
+[MIT](LICENSE)
